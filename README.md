@@ -1,1 +1,1 @@
-# colonjs
+# rails app
